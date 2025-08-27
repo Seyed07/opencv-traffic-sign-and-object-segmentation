@@ -5,8 +5,8 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
-This repository contains the **full implementation and documentation** of the third Multimedia Systems assignment,  
-featuring two major computer vision pipelines, built entirely in **Python** and **OpenCV**, with optional deep learning components for benchmarking.
+This repository contains the full implementation and documentation of two advanced computer vision pipelines, built entirely in Python and OpenCV, with optional deep learning components for benchmarking.
+
 
 ---
 
