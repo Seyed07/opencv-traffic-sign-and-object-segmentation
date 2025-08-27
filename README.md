@@ -118,11 +118,7 @@ Both tasks were developed to meet the academic requirements of the Multimedia Sy
 ## **Repository Structure**
 ```
 ├── main.ipynb              # Full implementation of Q1 & Q2
-├── Multimedia HW 3.pdf     # Problem statement & requirements
-├── گزارشکار مولتی 3.pdf     # Detailed Farsi project report
-├── sample_images/          # Example input images for Q1 & Q2
-├── outputs_strict/         # Detection/classification outputs for Q1
-├── outputs_q2/             # Segmentation & grouping outputs for Q2
+├── project.pdf     # Problem statement & requirements
 └── README.md               # Project documentation
 ```
 
