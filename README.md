@@ -130,7 +130,7 @@ Both tasks were developed to meet the academic requirements of the Multimedia Sy
 
 ## **Installation**
 ```bash
-git clone https://github.com/yourusername/opencv-traffic-sign-and-object-segmentation.git
+git clone https://github.com/Seyed07/opencv-traffic-sign-and-object-segmentation.git
 cd opencv-traffic-sign-and-object-segmentation
 pip install opencv-python numpy matplotlib
 ```
