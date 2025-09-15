@@ -96,6 +96,12 @@ Both tasks were developed to meet the academic requirements of the Multimedia Sy
    - Method 2: CNN trained with augmented dataset
    - Quantitative comparison and qualitative error analysis
 
+### **Traffic Sign Detection (Q1)**
+| Input | Output |
+|-------|--------|
+| <img width="400" height="300" alt="Screenshot 2025-08-27 203413" src="https://github.com/user-attachments/assets/9db9e4f3-707e-4ac5-9fef-7fd86b0d420b" /> | <img width="400" height="300" alt="output" src="https://github.com/user-attachments/assets/234f2d0b-27e1-4b2f-adda-d648824ffba8" /> |
+
+
 ---
 
 ### **Q2: Object Grouping Pipeline**
@@ -112,6 +118,13 @@ Both tasks were developed to meet the academic requirements of the Multimedia Sy
 
 4. **Result Visualization**
    - Arrange per-class images in 3x3 grid format for collective display.
+
+
+### **Object Segmentation (Q2)**
+| Input | Output |
+|-------|--------|
+| <img width="1389" height="577" alt="1" src="https://github.com/user-attachments/assets/a3cfe342-2017-4228-8fe2-585bac0389d7" /> | <img width="1327" height="944" alt="2" src="https://github.com/user-attachments/assets/255e8c0d-7015-4b14-88ee-70a2e7767975" /> |
+
 
 ---
 
@@ -147,19 +160,4 @@ Outputs will be saved to:
 - `outputs_q2/` for Part 2
 
 ---
-
-## **Results & Visual Output**
-
-### **Traffic Sign Detection (Q1)**
-| Input | Output |
-|-------|--------|
-| <img width="400" height="300" alt="Screenshot 2025-08-27 203413" src="https://github.com/user-attachments/assets/9db9e4f3-707e-4ac5-9fef-7fd86b0d420b" /> | <img width="400" height="300" alt="output" src="https://github.com/user-attachments/assets/234f2d0b-27e1-4b2f-adda-d648824ffba8" /> |
-
----
-
-### **Object Segmentation (Q2)**
-| Input | Output |
-|-------|--------|
-| <img width="1389" height="577" alt="1" src="https://github.com/user-attachments/assets/a3cfe342-2017-4228-8fe2-585bac0389d7" /> | <img width="1327" height="944" alt="2" src="https://github.com/user-attachments/assets/255e8c0d-7015-4b14-88ee-70a2e7767975" /> |
-
 
